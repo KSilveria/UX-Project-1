@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4E6EF342-0CC8-4640-BC47-00E38220C804",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 149,
+    "width": 345,
+    "x": 15,
+    "y": 200
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "molecule/security?label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CCCC6EB-61B0-471D-BEBD-287974AB3654",
+      "overrideName": "66CCDCD7-04F8-41FB-9155-0036A492BF3A_stringValue",
+      "value": "Answer the question to reset your password.  If you don't remember this question, skip to the next security question.                                                What was your first pet's name?"
+    }
+  ],
+  "overrides": {
+    "66CCDCD7-04F8-41FB-9155-0036A492BF3A": "Answer the question to reset your password.  If you don't remember this question, skip to the next security question.                                                What was your first pet's name?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "40E58AFE-0174-4B6A-AC4C-46D535327634",
+  "verticalSpacing": 0
+}

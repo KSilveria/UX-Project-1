@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "07C137A2-0A21-47FC-8566-7D2F5C8CF4DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 877,
+    "y": -709
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D95AE10-258C-423B-ADF4-20140B0EC617"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F1C3C12-E3E2-4ADC-AA36-8F50113CD983"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1F44A7D-F5F3-4A1C-9196-C026A564E0EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C012D405-80A8-4346-9A0D-1443292D26A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4EB9DDE-F243-4301-9903-99BD4D8430A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD33A330-E86E-4603-8773-E74DAAB37198"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33F2EF27-2C05-420C-8049-1D5796EED863"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "937AF581-2667-4EE9-B5D1-B0550987C605"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC13F411-AFCF-45A7-888B-E1B38CAFF4CF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 9.166666666666666,
+    "guttersOutside": true,
+    "horizontalOffset": 10,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 355
+  },
+  "name": "Option2 Screen",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

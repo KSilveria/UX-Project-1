@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6DE6E9B3-DE26-4003-AB87-6BB3430B1425",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 378,
+    "x": 0,
+    "y": 450
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "molecule/sign up option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "874C8390-C257-459C-A260-2EAE8BA95D90",
+      "overrideName": "BA3E762C-54AE-4EC0-9D1B-62C150A10D44/4F89A373-EE1C-4928-8710-5FC38000367D_stringValue",
+      "value": "Let's Go!"
+    }
+  ],
+  "overrides": {
+    "BA3E762C-54AE-4EC0-9D1B-62C150A10D44": {
+      "4F89A373-EE1C-4928-8710-5FC38000367D": "Let's Go!"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BD785509-67EA-4F16-B59F-74AF8D157CF4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "AA563168-4D7C-4FE2-BEC3-F9A95120188A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 173,
+    "y": 755
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EDDE548E-84AB-496A-B0E4-EB47A25B7A87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E56289E-419E-471F-B2AB-DF17FF95E3CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCE957C0-F650-4976-BD88-8CF9A03B2F64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9DCFF75-63BB-4024-BF4A-E84ADA4397B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0319285D-BC46-407A-84DD-A1A706090D68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31EDF6FD-6215-42B8-929D-86601FE1BEE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A58AC9FD-5EE2-4DE3-914B-980D725634A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40DEE8F5-1694-4461-9E07-11FAB0BC3B6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEE81809-4722-4173-9B3E-E6438A4785DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68CCCBF7-C3A1-4A46-A2CE-BF9AD810EDC1"
+    },
+    {
+      "class": "text",
+      "id": "1603CC07-D648-4909-BA80-3E80C9A42714"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 9.166666666666666,
+    "guttersOutside": true,
+    "horizontalOffset": 10,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 355
+  },
+  "name": "Error",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

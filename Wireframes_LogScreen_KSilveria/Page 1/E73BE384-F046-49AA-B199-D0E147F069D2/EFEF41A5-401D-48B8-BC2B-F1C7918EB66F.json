@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EFEF41A5-401D-48B8-BC2B-F1C7918EB66F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 110,
+    "x": 9,
+    "y": 358
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 6,
+  "masterInfluenceEdgeMaxYPadding": 7,
+  "masterInfluenceEdgeMinXPadding": 6,
+  "masterInfluenceEdgeMinYPadding": 5,
+  "name": "molecule/go button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "975C9F05-7ADD-4E7B-AE51-82C34581AE70",
+      "overrideName": "D5256232-D948-41FD-93CE-028A3C7B3500_stringValue",
+      "value": "Login"
+    }
+  ],
+  "overrides": {
+    "D5256232-D948-41FD-93CE-028A3C7B3500": "Login"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09252C2E-B6D5-469E-81B4-DC1BE610E42A",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

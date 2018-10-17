@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "82E42492-3FC2-445B-967A-2A7B9B88F05B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 123,
+    "width": 246,
+    "x": 64,
+    "y": 228
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 3,
+  "masterInfluenceEdgeMaxYPadding": 19,
+  "masterInfluenceEdgeMinXPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "molecule/password set message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "790B9C9D-724F-4968-992C-59C0E6F05237",
+      "overrideName": "D2A8ED5E-C9E1-4B6D-8C1B-4C9018BC0690_stringValue",
+      "value": "New password as been set! Time to go shop millions of awesome products!"
+    }
+  ],
+  "overrides": {
+    "D2A8ED5E-C9E1-4B6D-8C1B-4C9018BC0690": "New password as been set! Time to go shop millions of awesome products!"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D2D29D83-CE03-4E7B-A74C-C2058D45333A",
+  "verticalSpacing": 0
+}

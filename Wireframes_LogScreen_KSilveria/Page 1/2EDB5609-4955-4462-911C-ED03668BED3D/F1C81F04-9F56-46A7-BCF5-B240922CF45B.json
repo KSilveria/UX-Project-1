@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F1C81F04-9F56-46A7-BCF5-B240922CF45B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 378,
+    "x": 0,
+    "y": 478
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "molecule/option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8AA9DCE-F551-4BB3-A85D-5F7BFACA64C4",
+      "overrideName": "D17CB408-FF84-4515-AB36-F4E06AD82414/D5256232-D948-41FD-93CE-028A3C7B3500_stringValue",
+      "value": "Go!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AEA7286-85C4-4D1F-9139-F50C1C1F5B45",
+      "overrideName": "FF276A2F-B5D0-4AAE-8D81-BC08295750CB_stringValue",
+      "value": "Create an account using an email address"
+    }
+  ],
+  "overrides": {
+    "D17CB408-FF84-4515-AB36-F4E06AD82414": {
+      "D5256232-D948-41FD-93CE-028A3C7B3500": "Go!"
+    },
+    "FF276A2F-B5D0-4AAE-8D81-BC08295750CB": "Create an account using an email address"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 4,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "6EB733C4-C83A-4456-8A70-C34D3369734C",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}
